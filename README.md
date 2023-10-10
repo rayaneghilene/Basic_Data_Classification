@@ -5,7 +5,7 @@ This repository contains a basic data classification project. The purpose of thi
 
 ## Author
 
-[rayaneghilene]([https://github.com/your-github-username](https://github.com/rayaneghilene))
+[rayane ghilene](https://github.com/rayaneghilene)
 
 ## Acknowledgments
 
